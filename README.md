@@ -38,13 +38,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/zabitmajeed" target="_blank">
+  <a href="https://www.linkedin.com/in/zabitmajeed" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="43" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/xabit___" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="43" alt="instagram logo"  />
   </a>
-  <a href="nrnr551a@gmail.com" target="_blank">
+  <a href="mailto:nrnr551a@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="43" alt="gmail logo"  />
   </a>
 </div>
@@ -61,5 +61,3 @@
 ###
 
 <h5 align="left">Thank You, Buddy! 💙 For Checking My GitHub Profile 👨‍💻🚀 Do Follow & Stay Connected! 🔥🛡️</h5>
-
-###
